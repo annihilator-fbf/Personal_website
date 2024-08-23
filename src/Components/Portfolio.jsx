@@ -31,21 +31,23 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Micromechanics of Additively Manufacured metals",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "Research project on the micromechanics of additively manufactured metals. Use of nanoindentation technique and programming in Python.",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title:
+      "Assessing the viability of high-frequency spot melting for super duplex stainless steel 2507 via electron beam powder bed fusion",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Contribution to a research by providing a detailed analysis of the mechanical properties of the material using the nanoindentation technique.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title:
+      "Optomechanical, computer simulation and nanoindentation studies on tuneable click hydrogels: Microscopic Insights.",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Contribution to a research by performing nanoindentation tests on hydrogels to determine their mechanical properties.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
