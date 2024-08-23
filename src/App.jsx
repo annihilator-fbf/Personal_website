@@ -24,11 +24,11 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Francesc Barberá Flichi",
+  name: "Francesc Barberá",
   title: "Materials Engineer",
-  email: "francescbarberaflichi@gmail.com",
+  email: "francesc.barbera@upc.edu",
   gitHub: "annihilator-fbf",
-  instagram: "kirkhammett_fbf",
+  linkedIn: "www.linkedin.com/in/francescbarberaflichi",
 };
 
 const primaryColor = "#4E567E";

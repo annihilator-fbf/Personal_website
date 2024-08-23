@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/study.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,17 +31,18 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Micromechanics of Additively Manufacured metals",
+    title:
+      "Micromechanics in additively manufactured metals using electron beam-based powder bed fusion",
     description:
       "Research project on the micromechanics of additively manufactured metals. Use of nanoindentation technique and programming in Python.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://upcommons.upc.edu/handle/2117/393130",
   },
   {
     title:
       "Assessing the viability of high-frequency spot melting for super duplex stainless steel 2507 via electron beam powder bed fusion",
     description:
       "Contribution to a research by providing a detailed analysis of the mechanical properties of the material using the nanoindentation technique.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://www.sciencedirect.com/science/article/pii/S2238785423028016",
   },
   {
     title:
@@ -49,12 +50,6 @@ const projectList = [
     description:
       "Contribution to a research by performing nanoindentation tests on hydrogels to determine their mechanical properties.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
 
